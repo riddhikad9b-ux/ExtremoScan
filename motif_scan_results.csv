@@ -1,0 +1,6 @@
+Protein_ID,Motif,Start_Pos,End_Pos,Length
+Dsup_Tardigrade,KKK,7,9,3
+Dsup_Tardigrade,KRKK,11,14,4
+Dsup_Tardigrade,KRKK,29,32,4
+CAHS1_Tardigrade,KKK,3,5,3
+CAHS1_Tardigrade,KKRKR,11,15,5

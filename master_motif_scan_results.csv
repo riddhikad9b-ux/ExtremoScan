@@ -1,0 +1,6 @@
+Source_File,Protein_ID,Motif_Type,Matched_Sequence,Start_Pos,End_Pos,Length
+extremophile_targets.fasta,Dsup_Tardigrade,Basic Cluster (3+ Lys/Arg),KKK,7,9,3
+extremophile_targets.fasta,Dsup_Tardigrade,Basic Cluster (3+ Lys/Arg),KRKK,11,14,4
+extremophile_targets.fasta,Dsup_Tardigrade,Basic Cluster (3+ Lys/Arg),KRKK,29,32,4
+extremophile_targets.fasta,CAHS1_Tardigrade,Basic Cluster (3+ Lys/Arg),KKK,3,5,3
+extremophile_targets.fasta,CAHS1_Tardigrade,Basic Cluster (3+ Lys/Arg),KKRKR,11,15,5
